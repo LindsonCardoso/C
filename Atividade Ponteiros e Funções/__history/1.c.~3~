@@ -1,0 +1,26 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+/*Escreva um programa que declare um inteiro, um real e um char, e ponteiros para inteiro,
+ real, e char. Associe as variáveis aos ponteiros (use &). Modifique os valores de cada
+ variável usando os ponteiros. Imprima os valores das variáveis antes e após a modificação. */
+int main() {
+    //inputs
+    int *a;
+    int b;
+    int result;
+    printf("digite um interio : ");
+    scanf("%i",&a);
+    printf("%i",a);
+    printf("\n");
+
+    //logic
+    result = a = &b;
+
+
+
+
+
+
+  return 0;
+}
