@@ -1,4 +1,4 @@
 # Linguagem C
 
-Codigos implementados do URI
+Codigos implementados do URI / algotimos resolvido.
 
